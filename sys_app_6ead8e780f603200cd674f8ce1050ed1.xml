@@ -23,14 +23,22 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-23 20:48:29</sys_created_on>
         <sys_id>6ead8e780f603200cd674f8ce1050ed1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>me.niedzielski@snc</sys_updated_by>
-        <sys_updated_on>2017-06-06 13:57:15</sys_updated_on>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-05 21:38:42</sys_updated_on>
         <template/>
         <trackable>true</trackable>
+        <u_number/>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
+        <x_308280_newnod_type/>
+        <x_308280_nod2_tem_framework/>
+        <x_308280_nod2_tem_solutionsolution/>
+        <x_308280_nod2_tem_type_of_nod/>
+        <x_308280_nod2_tem_u_due_date_3/>
+        <x_308280_nod2_tem_u_glide_date_time_1/>
+        <x_308280_nod2_tem_u_glide_date_time_2/>
     </sys_app>
 </record_update>
