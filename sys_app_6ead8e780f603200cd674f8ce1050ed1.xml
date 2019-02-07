@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_app">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license_category/>
         <license_model>none</license_model>
         <logo/>
         <menu/>
@@ -28,9 +28,17 @@
         <sys_updated_on>2017-04-11 00:32:45</sys_updated_on>
         <template/>
         <trackable>true</trackable>
+        <u_number/>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
+        <x_308280_newnod_type/>
+        <x_308280_nod2_tem_framework/>
+        <x_308280_nod2_tem_solutionsolution/>
+        <x_308280_nod2_tem_type_of_nod/>
+        <x_308280_nod2_tem_u_due_date_3/>
+        <x_308280_nod2_tem_u_glide_date_time_1/>
+        <x_308280_nod2_tem_u_glide_date_time_2/>
     </sys_app>
 </record_update>
